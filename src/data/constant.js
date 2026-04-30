@@ -6,7 +6,7 @@ export const heroContent = {
     "Your one stop solution for your daily-life communication problems including public speaking, English fluency, and stammering cure.",
   highlights: ["Public Speaking", "English Speaking", "Stammering Cure"],
   rightPanelTitle: "~ Amit Lamba  ",
-  rightPanelImageUrl: "../public/pic2.jpeg",
+  rightPanelImageUrl: "./images/pic2.jpeg",
   rightPanelImageAlt: "Instructor portrait",
   socials: [
     {
@@ -62,7 +62,7 @@ export const aboutInstructorDetails = {
   pageTitle: "Hi, I am Amit Lamba, your communication coach",
   pageDescription:
     "I help learners build confidence in public speaking, English fluency, and speech clarity through structured practice and personal feedback.",
-  photoUrl: "../public/pic1.jpeg",
+  photoUrl: "./images/pic1.jpeg",
   intro: [
     "I am a technology professional with over two decades of experience in the IT industry, having worked with leading organizations such as Honeywell, Samsung, Aristocrat, Incedo, and HCL Technologies.",
     "Beyond my corporate journey, I am deeply passionate about helping individuals transform their communication skills. My mission is to empower people to overcome spoken English challenges, master public speaking, and confidently address stammering.",
