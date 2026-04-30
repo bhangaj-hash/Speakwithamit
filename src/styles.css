@@ -1984,6 +1984,7 @@ a {
   height: auto;
   object-fit: contain;
   margin-bottom: 0;
+  margin-left: -8.8rem;
 }
 
 .footer-brand-description {
