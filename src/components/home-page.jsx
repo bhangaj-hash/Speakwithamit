@@ -390,7 +390,7 @@ export function HomePage() {
         <SectionHeading
           eyebrow="Video Testimonials"
           title="Real feedback from learners"
-          description="Use the arrow buttons at the bottom-right to slide through testimonials."
+          description="Hear directly from our learners about their experiences and transformations after joining our programs."
           center
         />
         <TestimonialsCarousel />
@@ -463,7 +463,7 @@ export function HomePage() {
         <SectionHeading
           eyebrow="Program Overview"
           title="Watch how our sessions work"
-          description="This section can be replaced with your original class clips any time from the constants data."
+          description="A quick walkthrough of what to expect in a typical session and how it helps you build stronger speaking skills over time."
           center
         />
         <div className="about-video-preview">
