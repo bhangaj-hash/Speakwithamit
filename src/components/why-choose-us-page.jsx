@@ -18,7 +18,7 @@ export function WhyChooseUsPage() {
         <SectionHeading
           eyebrow="Why Choose Us"
           title="Why learners trust Speak with amit"
-          description="A dedicated page where each promise is paired with visuals. You can replace any image URL from constant.js."
+          description="A dedicated platform where each promise is paired with visuals."
           center
         />
       </div>

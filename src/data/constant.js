@@ -88,7 +88,7 @@ export const instructorCertificates = [
   },
   {
     id: "cert-02",
-    title: "Certified Mindfullness Instructor For teens and youngs",
+    title: "Certified Mindfulness Instructor For Teens and Young Adults",
     issuer: "Happiitude",
     year: "2026",
     imageUrl:

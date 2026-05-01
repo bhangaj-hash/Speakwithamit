@@ -173,9 +173,6 @@ export function ServicePage() {
           <p>
             <strong>Offline Batch Venue:</strong> Classroom-based training with Amit Lamba
           </p>
-          <p className="course-hero-media-note">
-            Replace this image from `servicePageDetails` in `constant.js` with your actual classroom photo.
-          </p>
         </div>
       </div>
 
