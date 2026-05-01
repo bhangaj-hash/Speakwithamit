@@ -351,7 +351,6 @@ export function HomePage() {
                 alt={heroContent.rightPanelImageAlt}
                 loading="lazy"
               />
-              <span>Instructor portrait</span>
             </div>
             <div className="about-instructor-quick-socials">
               {instructorQuickLinks.map((social) => {
