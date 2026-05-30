@@ -725,65 +725,65 @@ export const whyChooseUs = [
 ];
 
 export const testimonials = [
-  {
-    id: "testimonial-01",
-    name: "Ritika Sharma",
-    role: "Marketing Executive",
-    rating: 4,
-    quote:
-      "I went from avoiding introductions to confidently presenting in my office meetings. The speaking drills actually felt practical.",
-    videoThumbnailUrl:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
-    videoUrl:
-      "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/English%20Speaking%20Course%20%20Student%20Testimonial%20%20British%20Express%20-%20British%20Express%20(720p,%20h264).mp4",
-  },
-  {
-    id: "testimonial-02",
-    name: "Aman Verma",
-    role: "Engineering Student",
-    rating: 3,
-    quote:
-      "The English speaking batch fixed my hesitation. I now respond naturally instead of translating every sentence in my head.",
-    videoThumbnailUrl:
-      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=450&fit=crop&q=80",
-    videoUrl:
-      "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/Student%20Testimonial%20of%20the%20Best%20English%20Speaking%20Course%20%20British%20Express%20-%20Spoken%20English%20Institute%20-%20British%20Express%20(720p,%20h264).mp4",
-  },
+  // {
+  //   id: "testimonial-01",
+  //   name: "Ritika Sharma",
+  //   role: "Marketing Executive",
+  //   rating: 4,
+  //   quote:
+  //     "I went from avoiding introductions to confidently presenting in my office meetings. The speaking drills actually felt practical.",
+  //   videoThumbnailUrl:
+  //     "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
+  //   videoUrl:
+  //     "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/English%20Speaking%20Course%20%20Student%20Testimonial%20%20British%20Express%20-%20British%20Express%20(720p,%20h264).mp4",
+  // },
+  // {
+  //   id: "testimonial-02",
+  //   name: "Aman Verma",
+  //   role: "Engineering Student",
+  //   rating: 3,
+  //   quote:
+  //     "The English speaking batch fixed my hesitation. I now respond naturally instead of translating every sentence in my head.",
+  //   videoThumbnailUrl:
+  //     "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=450&fit=crop&q=80",
+  //   videoUrl:
+  //     "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/Student%20Testimonial%20of%20the%20Best%20English%20Speaking%20Course%20%20British%20Express%20-%20Spoken%20English%20Institute%20-%20British%20Express%20(720p,%20h264).mp4",
+  // },
   {
     id: "testimonial-03",
-    name: "Sahil Khan",
-    role: "Business Owner",
+    name: "Parth",
+    role: "Gujrat",
     rating: 2,
     quote:
       "The stammering program felt supportive, not overwhelming. I finally have a routine that helps me speak with less tension.",
     videoThumbnailUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
     videoUrl:
-      "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/How%20I%20overcame%20my%20stutter%20to%20become%20a%20national%20speaking%20champion%20%20ITV%20News%20-%20ITV%20News%20(720p,%20h264).mp4",
+      "https://ik.imagekit.io/t7knb1mo6/VID-20260512-WA0002.mp4?updatedAt=1780135998728",
   },
   {
     id: "testimonial-04",
-    name: "Neha Gupta",
-    role: "Parent",
+    name: "Nagaraja",
+    role: "Bangalore",
     rating: 5,
     quote:
       "My daughter became far more expressive on stage. The team was patient, structured, and genuinely invested in her growth.",
     videoThumbnailUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
     videoUrl:
-      "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/Student%20Testimonial%20-%20Varnika%20Chauhan%20-%20UPES%20(720p,%20h264).mp4",
+      "https://ik.imagekit.io/t7knb1mo6/VID-20260530-WA0015.mp4?updatedAt=1780136005445",
   },
   {
     id: "testimonial-05",
-    name: "Pranav Mehta",
-    role: "Startup Founder",
+    name: "Akshay",
+    role: "Jind",
     rating: 5,
     quote:
       "What stood out was the feedback quality. Each session gave me something specific to improve, and it showed quickly.",
     videoThumbnailUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
     videoUrl:
-      "https://ik.imagekit.io/kzspvcbz5/amit_bhiwanialgo/videostestimonials/YTDown.com_YouTube_Tamanna-Sharma-IELTS-LEARNING-STUDENT-TE_Media_ECXle7Z2CgA_001_720p.mp4",
+      "https://ik.imagekit.io/t7knb1mo6/VID-20260530-WA0016.mp4?updatedAt=1780136008185",
   },
 ];
 
