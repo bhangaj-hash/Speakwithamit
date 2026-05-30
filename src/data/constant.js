@@ -753,7 +753,7 @@ export const testimonials = [
     id: "testimonial-03",
     name: "Parth",
     role: "Gujrat",
-    rating: 2,
+    rating: 5,
     quote:
       "The stammering program felt supportive, not overwhelming. I finally have a routine that helps me speak with less tension.",
     videoThumbnailUrl:
