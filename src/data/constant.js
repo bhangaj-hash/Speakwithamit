@@ -767,7 +767,7 @@ export const testimonials = [
     role: "Bangalore",
     rating: 5,
     quote:
-      "My daughter became far more expressive on stage. The team was patient, structured, and genuinely invested in her growth.",
+      "The English speaking batch fixed my hesitation. I now respond naturally instead of translating every sentence in my head.",
     videoThumbnailUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop&q=80",
     videoUrl:
